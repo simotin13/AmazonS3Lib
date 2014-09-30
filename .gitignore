@@ -1,0 +1,6 @@
+Sample/obj/
+Sample/bin/Debug/AmazonS3Lib.pdb
+Sample/bin/
+AmazonS3Lib/obj/
+*.pdb
+*.suo
